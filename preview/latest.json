@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-preview.20260929222810",
-  "notes": "Preview build 0.1.0-preview.20260929222810",
-  "pub_date": "2026-09-29T23:01:43.302Z",
+  "version": "0.1.0-preview.20260930012800",
+  "notes": "Preview build 0.1.0-preview.20260930012800",
+  "pub_date": "2026-09-30T01:52:42.017Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURDdOQkNjaXd2eFVNV1RKV0c3N2ovYTRsdkFNeXEzTGlrdUc0RXJFdkJEOTdpTFpRamh5L2dqalZaT25XZktqMVl3UmNPZEVhRnZnNW12dUs2dHgxOEd0NUhwYm9HRndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzIyODY5CWZpbGU6TG9uZ2hhbmQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLXByZXZpZXcuMjAyNjA5MjkyMjI4MTAKQ2tNZEJOZDBjekozUUdHczRBMG1hdE1zT0lsemVLZG9jdkh4WC9MaTV1UnJJeHpEVmxDeHRLMFQwQmIzVXlZaEJOa0FYTkJBM3ZoZzYvbVU1TnNwQmc9PQo=",
-      "url": "https://github.com/twistymaze/longhand-builds/releases/download/preview-20260929222810/Longhand.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURDdOQkNjaXd2eFRRczYzUjdzU2RjN1dxd055U1ZxWlVtaTFvZnVkT1RvdmlvZkdubDUrKzU3cy9ETEJ3S0kwY25hOXpoQWZiMk5GTDRjZ2lTWERjRy94c2xnWnR1V1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzMzMTI3CWZpbGU6TG9uZ2hhbmQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLXByZXZpZXcuMjAyNjA5MzAwMTI4MDAKcHVUNHpXVEhFdlhVZFhFWDZ5THZYcUcrUy9ZTDhWNnZhT3dKRDExM3dNb1hieExmSzQ5djNSSzhqTDlBSGdvZVY3R214QjlkREhRMzNleUdZKzdJQlE9PQo=",
+      "url": "https://github.com/twistymaze/longhand-builds/releases/download/preview-20260930012800/Longhand.app.tar.gz"
     }
   }
 }
